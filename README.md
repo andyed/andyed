@@ -4,7 +4,7 @@
 
 
 > creator of Optimoz, ye olde skool blogger.  
-> by day * Product @ [Quora](https://quora.com) / [Poe](https://poe.com).*  
+> by day Product @ [Quora](https://quora.com) / [Poe](https://poe.com).
 > on the side [Psychodeli](https://psychodeli.com) and [iBlipper](https://andyed.github.io/iblipper2025).
 
 ### ⏳ The Long Arc
@@ -20,7 +20,7 @@
 - **2004**: **Bing** (Microsoft) — OG AI Evaluation PM in the quest to catch Google.
 - **2007**: **[Scrutinizer](https://github.com/andyed/scrutinizer)** — vision-simulating browser with Adobe Air real time rendering
 - **2016**: [Photoshop Discover Panel](https://helpx.adobe.com/photoshop/desktop/get-started/learn-the-basics/access-discover-panel.html) — search, documented as "in-app contextual help" for 30M+ users.
-- **2022**: [Poe](https://github.com/poe-platform/evaluation-prompts) — riding the AI wave.
+- **2022**: [Poe](https://github.com/poe-platform/evaluation-prompts) — early creativity eval with Scale AI.
 - **2025**: Revisiting my best projects with AI
     - **[Psychodeli](https://psychodeli.com)** closed source reimagining of a 90s screensaver with a "platinum plated" AI backend
     - **[Scrutinizer 2025](https://github.com/andyed/scrutinizer2025)** open source reimaging of a 2007 project with modern web tech
