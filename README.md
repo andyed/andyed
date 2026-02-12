@@ -4,8 +4,8 @@
 
 
 > creator of Optimoz, ye olde skool blogger.  
-> by day *Distinguished Product Manager @ [Quora](https://quora.com) / [Poe](https://poe.com).*  
-> on the side [Psychodeli](https://psychodeli.com) and [iBlipper](https://andyed.github.io/iblipper2025)
+> by day * Product @ [Quora](https://quora.com) / [Poe](https://poe.com).*  
+> on the side [Psychodeli](https://psychodeli.com) and [iBlipper](https://andyed.github.io/iblipper2025).
 
 ### ⏳ The Long Arc
 
@@ -44,7 +44,7 @@
 - **[The "Best" Hack?](https://www.quora.com/What-s-the-best-programming-hack-of-your-career-As-in-highest-value-for-least-effort/answer/Andy-Edmonds-1)**: Wrote a 4-line loop at eBay to visualize cultural history (e.g. Hasbro, Chanel) by year. *Most powerful code in 30 years.*
 - **[On "Sessions"](https://www.quora.com/Can-you-explain-the-concept-of-a-session-in-Google-Analytics-Is-it-synonymous-with-a-visit-or-a-website-user/answer/Andy-Edmonds-1)**: Defining the "window of maximum likelihood of non-return." It's just a timeout, but the math makes it meaningful.
 - **[Predicting Trends](https://www.quora.com/What-are-some-examples-of-trends-that-data-analytics-can-identify-using-historical-data/answer/Andy-Edmonds-1)**: Separating the heartbeat of humanity (holidays, SuperBowl) from the arrhythmia (disasters, viral flows).
-- **[Bringing Back Topic Pages](https://productupdates.quora.com/New-Improved-navigation-discoverability-and-control-for-topics-We-ve-been-working-on-numerous-updates-over-the-past?ch=10&oid=229817230&share=94f408bd&srid=IzU&target_type=post)**: "Brought back topic pages" in short. New improved navigation, discoverability, and control for topics.
+- **[Bringing Back Topic Pages](https://productupdates.quora.com/New-Improved-navigation-discoverability-and-control-for-topics-We-ve-been-working-on-numerous-updates-over-the-past?ch=10&oid=229817230&share=94f408bd&srid=IzU&target_type=post)**: Product update post, ex. [Umberto Eco topic page](https://www.quora.com/topic/Umberto-Eco-author).
 - **[Command Line Photoshop](https://www.quora.com/Can-you-type-in-text-commands-in-Adobe-Photoshop-2024/answer/Andy-Edmonds-1)**: Fought the good fight for CLI in Photoshop. _Spoiler: The CLI dream lives in my heart (and on Quora)._
 
 ---
