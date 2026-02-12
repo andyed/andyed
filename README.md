@@ -1,4 +1,4 @@
-# Andy Edmonds
+
 <a href="https://psychodeli.com" title="Passion project: music and body movement interactive visuals"><img src="assets/psychodeli_header.png" alt="Psychodeli Background" width="100%" /></a>
 
 
@@ -44,13 +44,14 @@
 - **[The "Best" Hack?](https://www.quora.com/What-s-the-best-programming-hack-of-your-career-As-in-highest-value-for-least-effort/answer/Andy-Edmonds-1)**: Wrote a 4-line loop at eBay to visualize cultural history (e.g. Hasbro, Chanel) by year. *Most powerful code in 30 years.*
 - **[On "Sessions"](https://www.quora.com/Can-you-explain-the-concept-of-a-session-in-Google-Analytics-Is-it-synonymous-with-a-visit-or-a-website-user/answer/Andy-Edmonds-1)**: Defining the "window of maximum likelihood of non-return." It's just a timeout, but the math makes it meaningful.
 - **[Predicting Trends](https://www.quora.com/What-are-some-examples-of-trends-that-data-analytics-can-identify-using-historical-data/answer/Andy-Edmonds-1)**: Separating the heartbeat of humanity (holidays, SuperBowl) from the arrhythmia (disasters, viral flows).
+- **[Bringing Back Topic Pages](https://productupdates.quora.com/New-Improved-navigation-discoverability-and-control-for-topics-We-ve-been-working-on-numerous-updates-over-the-past?ch=10&oid=229817230&share=94f408bd&srid=IzU&target_type=post)**: "Brought back topic pages" in short. New improved navigation, discoverability, and control for topics.
 - **[Command Line Photoshop](https://www.quora.com/Can-you-type-in-text-commands-in-Adobe-Photoshop-2024/answer/Andy-Edmonds-1)**: Fought the good fight for CLI in Photoshop. _Spoiler: The CLI dream lives in my heart (and on Quora)._
 
 ---
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/@andyed-d8e2e5?style=for-the-badge&logo=x&logoColor=black&labelColor=d8e2e5)](https://twitter.com/andyed) &nbsp; [![LinkedIn](https://img.shields.io/badge/andyed-d8e2e5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=d8e2e5)](https://www.linkedin.com/in/andyed/) &nbsp; [![Quora](https://img.shields.io/badge/Andy_Edmonds-d8e2e5?style=for-the-badge&logo=quora&logoColor=black&labelColor=d8e2e5)](https://qr.ae/pCcO4C)
+[![Twitter](https://img.shields.io/badge/@andyed-d8e2e5?style=for-the-badge&logo=x&logoColor=black&labelColor=d8e2e5)](https://twitter.com/andyed) &nbsp; [![LinkedIn](https://img.shields.io/badge/andyed-d8e2e5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=d8e2e5)](https://www.linkedin.com/in/andyed/) &nbsp; [![Quora](https://img.shields.io/badge/Andy_Edmonds-d8e2e5?style=for-the-badge&logo=quora&logoColor=black&labelColor=d8e2e5)](https://www.quora.com/profile/Andy-Edmonds-1)
 
 
 
