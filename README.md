@@ -3,7 +3,7 @@
 
 
 
-> creator of Optimoz, ye olde skool blogger.  
+> creator of Optimoz '01, ye olde skool blogger '97.  
 > by day Product @ [Quora](https://quora.com) / [Poe](https://poe.com).
 > on the side [Psychodeli](https://psychodeli.com) and [iBlipper](https://andyed.github.io/iblipper2025).
 
@@ -11,7 +11,7 @@
 
 - **1988**: Learns there are some things you can't unsee, given `alt.` Usenet newsgroups.
 - **1995**: First webmaster gig, generated so many leads sales couldn't keep up. 
-  **1999**: moved to Silicon Valley for the dot-com crash
+- **1999**: moved to Silicon Valley for the dot-com crash
     - *Paper:* [Personalized Search](https://dl.acm.org/doi/10.1145/567498.567526) (defined personalization as a spectrum of individualization vs contextualization )
 - **2000**: **Optimoz** — mouse gestures for Firefox. [Douglas Engelbart](https://www.cnet.com/tech/services-and-software/building-a-better-computer-mouse/) (inventor of the mouse) weighed in, and the feature gap with Opera was closed.
 - **2001**: **Lucidity** — open sourced ["mouse miles" tracking](https://sourceforge.net/projects/lucidity/) before in-page analytics was a thing.
