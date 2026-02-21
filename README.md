@@ -1,5 +1,5 @@
 
-<a href="https://psychodeli.com" title="Passion project: music and body movement interactive visuals"><img src="assets/psychodeli_header.png" alt="Psychodeli Background" width="100%" /></a>
+<a href="https://psychodeli.com/inside_the_math/" title="Passion project: music and body movement interactive visuals"><img src="assets/psychodeli_header.png" alt="Psychodeli Background" width="100%" /></a>
 
 
 
@@ -22,7 +22,7 @@
 - **2016**: [Photoshop Discover Panel](https://helpx.adobe.com/photoshop/desktop/get-started/learn-the-basics/access-discover-panel.html) — search, documented as "in-app contextual help" for 30M+ users.
 - **2022**: [Poe](https://github.com/poe-platform/evaluation-prompts) — early creativity eval with Scale AI.
 - **2025**: Revisiting my best projects with AI
-    - **[Psychodeli](https://psychodeli.com)** closed source reimagining of a 90s screensaver with a "platinum plated" AI backend
+    - **[Psychodeli](https://psychodeli.com)** closed source reimagining of a 90s screensaver with a "platinum plated" AI backend, see (Inside the Math)[https://psychodeli.com/inside_the_math/]
     - **[Scrutinizer 2025](https://github.com/andyed/scrutinizer2025)** open source reimaging of a 2007 project with modern web tech
 
 <div align="center">
