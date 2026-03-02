@@ -17,6 +17,7 @@
 - **2001**: **Lucidity** — open sourced ["mouse miles" tracking](https://sourceforge.net/projects/lucidity/) before in-page analytics was a thing.
 - **2003**: **MS Human Factors** at Clemson — Award-winning research, startup failed to launch.
     - *Paper:* [Uzilla: A new tool for Web usability testing](https://www.researchgate.net/publication/10684489_Uzilla_A_new_tool_for_Web_usability_testing) (Behavior Research Methods, Instruments, & Computers, 2003) plus open source tools for card sorting and webpage heuristic review lost to the demise of mozdev.org.
+    - *Paper:* [A Personal Information and Knowledge Infrastructure Integrator](https://jodi-ojs-tdl.tdl.org/jodi/article/view/jodi-130) (Journal of Digital Information, 2004) — mapping traditional hypertext principles to the web of the time, envisioning blogs as the foundation for universal personal knowledge management.
 - **2004**: **Bing** (Microsoft) — OG AI Evaluation PM in the quest to catch Google.
 - **2007**: **[Scrutinizer](https://github.com/andyed/scrutinizer)** — vision-simulating browser with Adobe Air real time rendering
 - **2016**: [Photoshop Discover Panel](https://helpx.adobe.com/photoshop/desktop/get-started/learn-the-basics/access-discover-panel.html) — search, documented as "in-app contextual help" for 30M+ users.
